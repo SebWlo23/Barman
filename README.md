@@ -7,6 +7,9 @@
 # Zaprojektowana baza danych
 ![Baza danych](https://user-images.githubusercontent.com/127935454/231570108-27baf575-c526-4d40-8607-9a248ef1fcf6.png)
 
+# Interface aplikacji
+![Interface](https://github.com/SebWlo23/Barman/assets/127935454/96678f15-354a-4bb6-9381-693c3d994d7e)
+
 # Działające urządzenie
 https://github.com/SebWlo23/Barman/assets/127935454/7c5048a4-a2bd-4127-8d50-824647f8dc85
 
