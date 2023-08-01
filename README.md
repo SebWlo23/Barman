@@ -10,7 +10,7 @@
 # Interface aplikacji
 ![Interface](https://github.com/SebWlo23/Barman/assets/127935454/96678f15-354a-4bb6-9381-693c3d994d7e)
 
-# Działające urządzenie
-https://github.com/SebWlo23/Barman/assets/127935454/7c5048a4-a2bd-4127-8d50-824647f8dc85
+//# Działające urządzenie
+//https://github.com/SebWlo23/Barman/assets/127935454/7c5048a4-a2bd-4127-8d50-824647f8dc85
 
-https://github.com/SebWlo23/Barman/assets/127935454/b3e04ed1-821a-4492-96ec-a69bc97bc7e7
+//https://github.com/SebWlo23/Barman/assets/127935454/b3e04ed1-821a-4492-96ec-a69bc97bc7e7
